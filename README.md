@@ -1,9 +1,5 @@
-# motifSearch.pl version 2.1
-# ==========================
-
-
-                                motifSearch.pl
-                                 Version 2.1
+# motifSearch.pl
+### version 2.1
 
   What is it?
   -----------
